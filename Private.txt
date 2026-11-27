@@ -30,5 +30,4 @@ vless://150ab223-53e7-4b97-a38c-83611d5e1acf@172.67.145.209:443?encryption=none&
 vless://150ab223-53e7-4b97-a38c-83611d5e1acf@162.159.82.216:443?encryption=none&security=tls&sni=frank.amoo30bil.com&fp=chrome&alpn=http%2F1.1&type=ws&host=frank.amoo30bil.com&path=%2FgTXpOYpM04YSnvQetcj3V4ka#Ehsan%20Hiddfiy%20WS
 vless://150ab223-53e7-4b97-a38c-83611d5e1acf@104.24.70.224:443?encryption=none&security=tls&sni=frank.amoo30bil.com&fp=chrome&alpn=http%2F1.1&type=ws&host=frank.amoo30bil.com&path=%2FgTXpOYpM04YSnvQetcj3V4ka#Ehsan%20Hiddfiy%20WS
 vless://150ab223-53e7-4b97-a38c-83611d5e1acf@172.67.154.247:443?encryption=none&security=tls&sni=frank.amoo30bil.com&fp=chrome&alpn=http%2F1.1&type=ws&host=frank.amoo30bil.com&path=%2FgTXpOYpM04YSnvQetcj3V4ka#Ehsan%20Hiddfiy%20WS
-vless://150ab223-53e7-4b97-a38c-83611d5e1acf@openwrt.2bil.ir:443?encryption=none&security=tls&sni=frank.amoo30bil.com&fp=chrome&alpn=h2&type=xhttp&host=frank.amoo30bil.com&path=%2FQb5oaugvgym0jjmmjcKRiv&mode=auto#Ehsan%20Hiddfiy%20xhttp
-vless://150ab223-53e7-4b97-a38c-83611d5e1acf@openwrt.2bil.ir:443?encryption=none&security=tls&sni=frank.amoo30bil.com&fp=chrome&alpn=http%2F1.1&type=ws&host=frank.amoo30bil.com&path=%2FgTXpOYpM04YSnvQetcj3V4ka#Ehsan%20Hiddfiy%20WS
+
